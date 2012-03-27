@@ -1,0 +1,29 @@
+This project entails to give people with inavluable data the motivation to share it.
+
+Github has been very succesful in creating an environment for coders and programmers to seamlessly collaborate over the internet 
+while at the same time maintaining their own interests using version control. The idea behind open sourcing science data should be 
+that users with data silos (that they have created, modified etc) who do no have use of it should share it online so that 
+other people can discover it and do things that the original creators did not think of . 
+
+If the new users create something of value they will automatically credit the data owners as this is built into the system.
+A hierarchical structure means if you take the data (licensed with creative commons) you have the obligation to share back 
+your results so that many others interested can do the same.
+
+The data should be shared in a standard format with a clear metadata file that describes all aspects of it. This will be 
+very useful for other innovators to search for this file if the metadata is indexed well. Interoperable and open formats
+like csv txt file or open databases like MySQL are preferable.
+
+A readme file that describes the origin of the data and links to all the scientific papers, articles, technical blogpost
+explaining the data should be included. This will be useful for new innovators to look for the right tools and what should 
+be expected to be done. 
+
+Present scientific collaboration occurs via forums, email exchanges, scientific publishing etc. This approach tries to make
+collaboration seamless (at least sharing of data and to a certain extent methods) the way Github achieves the same for 
+programming.
+
+The social structure motivates people to work in the collaborative hierarchy which means even someone who has just shared
+the data will get the required credit, Also someone who works with the data and modifies and does something interesting with 
+it will have the same motivation to share the results.
+
+
+
